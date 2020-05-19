@@ -1,0 +1,1 @@
+INSERT INTO `Cycle5`.`login`(`username`,`password`) VALUES (?,?);
